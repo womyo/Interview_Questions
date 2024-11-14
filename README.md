@@ -1,6 +1,6 @@
 # Interview_Questions
 
-## 규칙
+## 📝 규칙
 
 ###	문제
 레벨 0: 최소 1문제 풀이
@@ -12,3 +12,5 @@
 
 ### 페널티
 문제를 풀지 못할 경우 5000원의 벌금!!
+
+참고: [JeaSungLEE](https://github.com/JeaSungLEE/iOSInterviewquestions)
