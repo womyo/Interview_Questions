@@ -13,4 +13,4 @@
 ### 페널티
 문제를 풀지 못할 경우 5000원의 벌금!!
 
-참고: [JeaSungLEE](https://github.com/JeaSungLEE/iOSInterviewquestions)
+참고: [JeaSungLEE](https://github.com/JeaSungLEE/iOSInterviewquestions) , [Technical Interview for iOS Developer](https://github.com/inswag/Technical_interview_for_iOS_Dev?tab=readme-ov-file)
